@@ -1,0 +1,144 @@
+#wrapper{
+	width: 1000px;
+	margin: 0;
+}
+header img{
+	width: 90px;
+	margin-left:50px;
+	margin-bottom: 40px;
+	margin-top: -20px;
+}
+header li{
+	display:inline;
+	float:right;
+}
+header li a{
+	color: #ffffff;
+	font-family: arial;
+	background: #b94a48;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right:88px;
+	padding-left:88px;
+	width: 70px; 
+	text-align: center;
+}
+.layout1{  
+	background: #333333;
+}
+.divredbox{
+	background-color: #ee5f5b;
+	width: 848px;
+	height: 248px;
+	float:right;
+	margin-top:12px;
+}
+.boxinside{
+	background-color: #5f2624;
+	width: 126px;
+	height: 94px;
+	margin-left:344px;
+	margin-top:90px;
+	
+}
+.footer1{
+	width 1000px;
+	height: 121px;
+	background-color: #d6d6d6;
+}
+.aside1{
+	background-color: #f2dede;
+	width: 121px;
+	height:698px;
+	position: absolute;
+	margin-top:31px;
+}
+.section1{
+	float: right;
+	margin-top: 225px;
+	margin-right:94px;
+	width:691px;
+	height:173px;
+	background-color: #666666;
+}
+.footer1{
+   position:absolute;
+   bottom:-380px;
+   width:78.5%;
+   height:121px;  
+   background-color:#d6d6d6;
+}
+.header2{
+	height: 154px;
+	background: #ffffff;
+	padding-left:410px;
+	padding-top:38px;
+	margin-top:0px;
+}
+.aside2{
+	background-color: #333333;
+	width: 243px;
+	height:756px;
+}
+.ul2{
+	margin-top:5px;
+	color: #ffffff;
+	padding-left:5px;
+	line-height:45px;
+	font-family:arial;
+	position:absolute;
+}
+.layout2{
+	background-color: #b94a48;
+	width: 238px;
+	position: relative;
+	right:5px;
+	padding-left:5px;
+}
+.main{
+	background-color: #ee5f5b;
+	width:757px;
+	height:756px;
+	float:right;
+	margin-top:-756px;
+}
+.inside1{
+	background-color: #5f2624;
+	width: 212px;
+	height: 365px;
+	margin-left:32px;
+}
+.inside2{
+	background-color: #5f2624;
+	width: 212px;
+	height: 225px;
+	float:right;
+	margin-right:32px;
+	margin-top:-365px;
+}
+.inside3{
+	background-color: #5f2624;
+	width: 212px;
+	height: 367px;
+	margin-left:32px;
+	margin-top:24px;
+}
+.inside4{
+	background-color: #5f2624;
+	width: 212px;
+	height: 562px;
+	margin-left:274px;
+	margin-top:-756px;
+}
+.inside5{
+	background-color: #5f2624;
+	width: 212px;
+	height: 174px;
+	margin-left:274px;
+	margin-top:20px;
+}
+.footer2{
+	width 1000px;
+	height: 50px;
+	background-color: #d6d6d6;
+}
